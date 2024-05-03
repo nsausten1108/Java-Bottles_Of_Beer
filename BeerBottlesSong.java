@@ -30,8 +30,7 @@ public class BeerBottlesSong {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
-				System.out
-						.println(bottlesCount + " bottles of beer on the wall, " + bottlesCount + " bottles of beer.");
+				System.out.println(bottlesCount + " bottles of beer on the wall, " + bottlesCount + " bottles of beer.");
 				System.out.println("Take one down, pass it around.");
 				// Decrement bottlesCount for each verse
 				i--;
